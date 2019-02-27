@@ -1,0 +1,32 @@
+.fon{
+	background: url(black-ops-specialists.jpg);
+	transition: 0.5s;
+	background-size: 100% 100%;
+}
+.fon:hover{
+	transform: scale(1.05);
+}
+.fon2{
+	background: url(maxresdefault.jpg);
+	transition: 0.5s;
+	background-size: 100% 100%;
+}
+.fon2:hover{
+	transform: scale(1.05);
+}
+.fon3{
+	background: url(module-online-wide.jpg);
+	transition: 0.5s;
+	background-size: 100% 100%;
+}
+.fon3:hover{
+	transform: scale(1.05);
+}
+.back{
+	background: url(phon.jpg);
+	background-size: 100% 100%;
+}
+.szadi{
+	background: url(bgurl.jpg);
+	background-size: 100% 100%;
+}
